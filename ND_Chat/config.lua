@@ -20,5 +20,12 @@ config = {
             "SAHP",
             "LSFD"
         }
-    }
+    },
+
+    words = {
+        "badword",
+        "badword2"
+    },
+
+    filtermessage = "[^3SYSTEM^0] You cannot say ^1%s^0 in this server!"
 }
